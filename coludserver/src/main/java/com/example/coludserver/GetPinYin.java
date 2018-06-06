@@ -93,6 +93,6 @@ public final class  GetPinYin {
 
         public static void main(String[] args) {
             GetPinYin cte = new GetPinYin();
-            System.out.println("获取拼音首字母："+ cte.getAllFirstLetter("木棉花的春天"));
+            System.out.println("获取拼音首字母："+ cte.getAllFirstLetter("楼咯"));
         }
     }
