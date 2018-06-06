@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudclin/cloudclin.iml" filepath="$PROJECT_DIR$/cloudclin/cloudclin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coludserver/coludserver.iml" filepath="$PROJECT_DIR$/coludserver/coludserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parentProject.iml" filepath="$PROJECT_DIR$/parentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+    </modules>
+  </component>
+</project>
